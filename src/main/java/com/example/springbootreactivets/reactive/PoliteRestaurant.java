@@ -1,4 +1,4 @@
-package com.example.springbootreactivets.introduction;
+package com.example.springbootreactivets.reactive;
 
 public class PoliteRestaurant {
 
